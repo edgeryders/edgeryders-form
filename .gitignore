@@ -1,10 +1,12 @@
-.DS_Store
+# Build-related files
 node_modules
 /dist
 
-# local env files
-.env.local
-.env.*.local
+# File found in live web hosting environments
+/stats
+
+# .env files (Vue.js environment variable mechanism)
+.env.*
 
 # Log files
 npm-debug.log*
@@ -19,3 +21,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Mac OS X desktop meta-info files
+.DS_Store
