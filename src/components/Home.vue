@@ -65,7 +65,7 @@ export default {
   }
 
   .logo {
-    max-width: 20rem;
+    max-width: 10rem;
   }
 
   @media (max-width: 768px) {
