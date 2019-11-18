@@ -89,7 +89,7 @@ The following steps have to be done in both Discourse instances (SSO provider an
     yarn run build
     ```
 
-5. Configure your webserver to serve the website as static files, using the `build/` sub-directory as document root.
+5. Configure your webserver to serve the website as static files, using the `dist/` sub-directory as document root.
 
 6. Enable HTTPS for serving the website. Not strictly required though.
 
