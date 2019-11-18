@@ -1,9 +1,10 @@
 # Build-related files
 node_modules
-/dist
+/dist/
 
-# File found in live web hosting environments
-/stats
+# Files found in live web hosting environments
+/stats/
+/error/
 
 # .env files (Vue.js environment variable mechanism)
 .env.*
