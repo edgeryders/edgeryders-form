@@ -27,14 +27,18 @@
   "slides": [{
     "title": "Edgeryders Listening Triades Form",
     "subtitle": "Welcome to Edgeryders!",
-    "body": "Welcome! In this group exercise you will need to play three roles: take notes, ask questions and answer questions for three minutes each. This form is where each person adds their own notes from the exercise.<br/><br/> <strong>If you already have an edgeryders.eu account:</strong> <ol><li>Log in <a href=\"https://edgeryders.eu/login\" target=\"_blank\">here</a>.</li> <li>Go <a href=\"https://edgeryders.eu/c/campfire/listening-triads\" target=\"_blank\">here</a>.</li> <li>Hit the \"+ New topic\" button and answer the questions.</li></ol> <strong>If you do not already have an account, then the rest of this form is for you!</strong>",
+    "body": "<strong>About this exercise:</strong> This exercise is a fun and easy way to get to know who else is in the room with you. This form guides you through the three steps.<br/><br/> <strong>If you already have an edgeryders.eu account:</strong> <ol><li>Log in <a href=\"https://edgeryders.eu/login\" target=\"_blank\">here</a>.</li> <li>Go <a href=\"https://edgeryders.eu/c/campfire/listening-triads\" target=\"_blank\">here</a>.</li> <li>Hit the \"+ New topic\" button and answer the questions.</li></ol> <strong>If you do not already have an account, then the rest of this form is for you!</strong>",
+    "fields": []
+  }, {
+    "title": "How it works",
+    "body": "Welcome! In this group exercise you will need to play three roles: take notes, ask questions and answer questions for 5 minutes each. And then switch roles twice. So by the end of the exercise each person has played all three roles.<br/><br/> How it works: <ul><li>Step 1: One of the three people in the group volunteers to take notes first. Adds name and email of person speaking in text editor then takes notes ad verbatum (word for word).</li> <li>Step 2: For the note taker: Listen to the person in the group asking the questions above and the other answering, and write down the answers. Don’t worry about the spelling.</li> <li>Step 3: When the person has finished talking, it is time to switch roles: You speak, while someone else asks you questions and the third takes notes by filling in their own form at listen.edgeryders.eu.</li></ul>",
     "fields": [],
-    "nextText": "GET STARTED",
+    "nextText": "READY? LET'S GO!",
     "nextTitle": "Start the listening triad form"
   }, {
     "index": 1,
     "title": "Question 1/3: Who's talking?",
-    "body": "Ask the person who is speaking right now if what their name is and if they already have an edgeryders account? Add their answer here."
+    "body": "Ask the person who is speaking right now what their name is, and if they already have an edgeryders.eu account? Add their answer here."
   }, {
     "index": 2,
     "title": "Question 2/3: Notes.",
