@@ -16,16 +16,11 @@ body {
   margin: 0;
 }
 
-ul {
+/* ul outside p.body is used for the slider dots etc. */
+:not(p.body) ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
-
-p.body ul {
-  list-style-type: initial;
-  margin: initial;
-  padding: initial;
 }
 
 .primary-background { background-color: $primary; }
