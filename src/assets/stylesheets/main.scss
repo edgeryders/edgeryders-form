@@ -22,6 +22,12 @@ ul {
   padding: 0;
 }
 
+p.body ul {
+  list-style-type: initial;
+  margin: initial;
+  padding: initial;
+}
+
 .primary-background { background-color: $primary; }
 .primary { color: $primary; }
 
