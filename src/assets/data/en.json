@@ -27,7 +27,7 @@
   "slides": [{
     "title": "Edgeryders Listening Triades Form",
     "subtitle": "Welcome to Edgeryders!",
-    "body": "Welcome! In this group exercise you will need to play three roles: take notes, ask questions and answer questions for three minutes each. This form is where each person adds their own notes from the exercise.<br/><br/> <strong>If you already have an edgeryders.eu account:</strong> <ol><li>Log in <a href=\"https://edgeryders.eu/login\">here</a>.</li> <li>Go <a href=\"https://edgeryders.eu/c/campfire/listening-triads\">here</a>.</li> <li>Hit the \"+ New topic\" button and answer the questions.</li></ol> <strong>If you do not already have an account, then the rest of this form is for you!</strong>",
+    "body": "Welcome! In this group exercise you will need to play three roles: take notes, ask questions and answer questions for three minutes each. This form is where each person adds their own notes from the exercise.<br/><br/> <strong>If you already have an edgeryders.eu account:</strong> <ol><li>Log in <a href=\"https://edgeryders.eu/login\" target=\"_blank\">here</a>.</li> <li>Go <a href=\"https://edgeryders.eu/c/campfire/listening-triads\" target=\"_blank\">here</a>.</li> <li>Hit the \"+ New topic\" button and answer the questions.</li></ol> <strong>If you do not already have an account, then the rest of this form is for you!</strong>",
     "fields": [],
     "nextText": "GET STARTED",
     "nextTitle": "Start the listening triad form"
@@ -44,7 +44,7 @@
     "title": "Question 3/3: Reflection.",
     "body": "Take a minute to think about what has been said. What are your own thoughts about it – anything that you find especially interesting? Perhaps there is something you would like to explore more during the rest of the workshop?"
   }, {
-    "index": 5,
+    "index": 4,
     "title": "The last little bit!",
     "nextTitle": "Submit your response!",
     "body": "These questions will help everyone to find the documentation and continue the discussion after the event.",
