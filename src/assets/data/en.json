@@ -86,7 +86,7 @@
     "settings": { "omitBody": true }
   }, {
     "title": "Well done!",
-    "body": "Well done! Thank you for taking part in the listening triade.<br/><br/>* We have created a new edgeryders.eu account for you, and published your listening triade notes using that account. You will receive an e-mail about the account we created for you. You can use that to log in to edgeryders.eu and edit your listening triade notes. No password is required to login – just click \"With Email\" in the login form to receive a one-time login link.",
+    "body": "Well done! Thank you for taking part in the listening triade.<br/><br/>* We have created a new edgeryders.eu account for you, and <a target=\"_blank\" href=\"https://edgeryders.eu/c/campfire/listening-triads\">published your listening triade notes</a> using that account. You will receive an e-mail about the account we created for you. You can use that to log in to edgeryders.eu and edit your listening triade notes. No password is required to login – just click \"With Email\" in the login form to receive a one-time login link.",
     "fields": [],
     "backText": null,
     "nextText": null 
