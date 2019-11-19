@@ -83,7 +83,7 @@
     "settings": { "omitBody": true }
   }, {
     "title": "Well done!",
-    "body": "Well done! Thank you for taking the time to fill out the event registration form! We have been working for months to prepare different ways for you to engage with this event, the other participants, as well as peers in over 80 countries who have interests and work aligned with your own.<br/><br/>* You will receive the confirmation of your participation on your email. Along with some materials to help you prepare. You can opt out at any time, no spam guaranteed.",
+"body": "Well done! Thank you for taking the time to fill out the event registration form! Your response has been published <a target=\"_blank\" href=\"https://edgeryders.eu/c/campfire\">here on edgeryders.eu</a>, and you can adapt it there if needed.<br/><br/> We have been working for months to prepare different ways for you to engage with this event, the other participants, as well as peers in over 80 countries who have interests and work aligned with your own.<br/><br/>* You will receive the confirmation of your participation on your email. Along with some materials to help you prepare. You can opt out at any time, no spam guaranteed.",
     "fields": [],
     "backText": null,
     "nextText": null 
