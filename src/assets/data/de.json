@@ -9,7 +9,7 @@
     "slideDefaults": {
       "title": "Q{{index}}",
       "backText": "ZURÜCK",
-      "nextText": "VOR",
+      "nextText": "WEITER",
       "backTitle": "Gehe zurück",
       "nextTitle": "Weiter",
       "cancelTitle": "Antworten löschen und neu anfangen",
@@ -27,12 +27,12 @@
     "slides": [{
       "title": "Anmeldeformular für Edgeryders-Veranstaltungen",
       "subtitle": "Willkommen auf der Edgeryders-Plattform!",
-      "body": "Wir glauben, dass Netzwerke eine wichtige Rolle in Prozessen gesellschaftlichen Wandels spielen. Teil solcher Netzwerke zu sein ermöglicht Zugang zu Expertise und einer Vielzahl von Ressourcen. Allerdings ist es gerade in grösseren Netzwerken nicht immer einfach, Gleichgesinnte zu finden.<br/><br/>Daher organisieren wir Seminare, Workshops, Hackathons, Labore und Forschungs-Kooperationen, um gemeinsam spannende Projekte zu entwickeln und Ideen in die Tat umzusetzen.<br/><br/>Dieses Formular unterstützt Dich bei der Anmeldung und richtet einen edgeryders.eu Account für Dich ein.<br/><br/><strong>Falls Du schon  auf der Plattform registriert bist, bitte <a href=\"https://edgeryders.eu/new-topic?category_id=237&title=My%20Festival%20Registration%20%E2%80%93%20Response%20by%20%E2%80%A6&body=Our%20events%20are%20free%20of%20charge.%20Instead%2C%20we%20ask%20each%20participant%20some%20questions%20for%20you%20to%20answer%20in%20advance%20which%20help%20our%20team%20to%20do%20three%20things%3A%0A%0A1.%20Enable%20our%20community%20managers%20to%20connect%20people%20who%20ought%20to%20meet%20at%20the%20event.%0A2.%20Customise%20each%20event%20so%20that%20it%20is%20especially%20relevant%20and%20generative%20to%20each%20participant.%0A3.%20Process%20documentation%20from%20the%20event%20to%20produce%20a%20research%20report%20which%20turns%20individual%20conversation%20into%20collective%20insight.%0A%0A%2A%2APlease%20mention%20the%20name%20%2F%20topic%20of%20the%20event%20you%20want%20to%20participate%20in%2C%20and%20the%20city%20or%20town%20where%20it%20is%20happening.%2A%2A%0A%0A%2A%2A%28Q1%2F3%29%20What%20makes%20life%20good%20for%20you%3F%2A%2A%20Work%2C%20hobbies%2C%20family%20life%2C%20leisure%2C%20pleasure...%20Which%20activities%20from%20your%20present%20life%20would%20you%20like%20to%20keep%20doing%3F%20Which%20things%20would%20you%20like%20to%20never%20do%20again%3F%20Which%20would%20you%20want%20to%20start%20doing%2Fdo%20more%20of%3F%0A%0A%2A%2A%28Q2%2F3%29%20Tell%20us%20about%20your%20journey%21%2A%2A%20What%20is%20an%20a%20question%20or%20desire%20that%20drives%20you%20or%20your%20work%3F%20How%20did%20you%20get%20started%20and%20what%20hurdles%20have%20you%20met%20along%20the%20way%3F%20Which%20doubts%20do%20you%20have%20about%20the%20work%20you%20are%20doing%20and%20the%20path%20forward%3F%20What%20kind%20of%20support%20would%20you%20like%20to%20offer%20others%20traveling%20a%20similar%20path%3F%20By%20sharing%20your%20story%20below%20you%20enable%20others%20to%20connect%20you%20with%20people%2C%20conversations%2C%20opportunities%20relevant%20to%20your%20personal%20and%20professional%20development%3A%22%0A%0A%2A%2A%28Q3%2F3%29%20What%20interests%20you%20about%20the%20event%20topic%3F%2A%2A%20Great%2C%20now%20that%20you%27ve%20made%20it%20easier%20for%20us%20to%20introduce%20you%20to%20the%20others%20%E2%80%93%20start%20to%20think%20about%20the%20topic%20and%20purpose%20of%20the%20event%20itself.%20Why%20do%20you%20want%20to%20participate%20in%20it%3F%20How%20do%20you%20feel%20the%20topic%20touches%20your%20work%20or%20life%20at%20the%20moment%20%2F%20in%20the%20future%3F\">auf  edgeryders.eu anmelden und dann hier</a> klicken, um diese Anmeldung direkt auf edgeryders.eu durchzuführen.</strong>",
+      "body": "Wir glauben, dass Netzwerke eine wichtige Rolle in Prozessen gesellschaftlichen Wandels spielen. Teil solcher Netzwerke zu sein ermöglicht Zugang zu Expertise und einer Vielzahl von Ressourcen. Allerdings ist es gerade in grösseren Netzwerken nicht immer einfach, Gleichgesinnte zu finden.<br/><br/>Daher organisieren wir Seminare, Workshops, Hackathons, Labore und Forschungs-Kooperationen, um gemeinsam spannende Projekte zu entwickeln und Ideen in die Tat umzusetzen.<br/><br/>Dieses Formular unterstützt Dich bei der Anmeldung und richtet einen edgeryders.eu Account für Dich ein.<br/><br/><strong>Falls Du schon  auf der Plattform registriert bist, bitte auf edgeryders.eu anmelden und <a href=\"https://edgeryders.eu/new-topic?category_id=237&title=My%20Festival%20Registration%20%E2%80%93%20Response%20by%20%E2%80%A6&body=\">dann hier klicken</a>, um diese Anmeldung direkt auf edgeryders.eu durchzuführen.</strong>",
       "fields": []
     }, {
       "index": 1,
       "title": "Wähle Deine Veranstaltung aus!",
-      "body": "Bitte hier Titel der Veranstaltung nennen sowie die Stadt, in der die Veranstaltung stattfindet!."
+      "body": "Bitte hier Titel der Veranstaltung nennen sowie die Stadt, in der die Veranstaltung stattfindet!"
     }, {
       "title": "",
       "body": "Die Teilnahme an diesen Veranstaltungen ist kostenlos. Stattdessen bitten wir alle Teilnehmer*innen, uns etwas über ihr Interesse an der Veranstaltung zu erzählen, um Veranstaltungsteams bei der Folgendem zu unterstützen:<ol><li>Dafür sorgen, dass sich Teilnehmer*innen vernetzen können</li> <li>Interessen der Teilnehmer*innen zu berücksichtigen</li> <li>Diskussionen für Nachbereitung und weiteren Austausch zu dokumentieren.</li></ol>Alle Angaben bleiben anonmym und werden auf einer Open-Source-Plattform gesammelt. Du kannst diese Daten über Dein edgeryders.eu-Nutzer*innenkonto einsehen.",
@@ -44,10 +44,10 @@
       "title": "Was interessiert Dich am Veranstaltungs-Thema?",
       "body": "Warum nimmst Du teil, was erhoffst Du Dir als Ergebnis?"
     }, {
-      "index": 5,
+      "index": 3,
       "title": "Fast fertig!",
       "nextTitle": "Schließe die Anmeldung ab!",
-      "body": "Diese Frage rundet Deine Anmeldung ab1",
+      "body": "Diese Frage rundet Deine Anmeldung ab.",
       "fields": [{
         "name": "name",
         "type": "text",
@@ -75,7 +75,7 @@
       "settings": { "omitBody": true }
     }, {
       "title": "Vielen Dank!",
-  "body": "Danke - wir stellen Deine Antwort hier <a target=\"_blank\" href=\"https://edgeryders.eu/c/campfire\">here on edgeryders.eu</a> ein, sie kann jederzeit von Dir ergänzt werden.<br/><br/> Wir bereiten diese Veranstaltung seit Monaten vor und hoffen, dass Du Dich am Austausch mit Intertessierten aus über 80 Ländern beteiligen möchtest.<br/><br/>* Wir versenden eine Anmelde-Bestätigung und weitere Info per Email - Du kannst Dich jederzeit wieder abmelden, es wird niemals Spam verschickt.",
+      "body": "Danke - wir stellen Deine Antwort hier <a target=\"_blank\" href=\"https://edgeryders.eu/c/campfire\">here on edgeryders.eu</a> ein, sie kann jederzeit von Dir ergänzt werden.<br/><br/> Wir bereiten diese Veranstaltung seit Monaten vor und hoffen, dass Du Dich am Austausch mit Intertessierten aus über 80 Ländern beteiligen möchtest.<br/><br/>* Wir versenden eine Anmelde-Bestätigung und weitere Info per Email - Du kannst Dich jederzeit wieder abmelden, es wird niemals Spam verschickt.",
       "fields": [],
       "backText": null,
       "nextText": null 
