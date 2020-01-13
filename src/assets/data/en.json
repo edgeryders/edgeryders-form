@@ -1,6 +1,6 @@
 {
   "brand": {
-    "title": "Edgeryders Event Registration Form",
+    "title": "OCI Lab Incubator 19-20: Call for contributors",
     "logoSrc": "/favicon.ico",
     "imageSrc": "/logo.png",
     "beginText": "BEGIN",
@@ -25,52 +25,75 @@
     "settings": { "omitFields": true }
   },
   "slides": [{
-    "title": "Edgeryders Event Registration Form",
-    "subtitle": "Welcome to Edgeryders!",
-    "body": "Our theory of change is building dense networks around people trying to tackle messy socialecological, economic and political challenges. Having a dense network around you is one of the hallmarks of social capital, and gives you access to expertise, resources, skill sharing and financing. In a dense network, there are many ways for you to get from one point to another. A key challenge here is for people with aligned interests to find each other, and as a community we’re out to solve just that.<br/><br/>To do this we organise seminars, workshops, hackathons, retreats, Labs, research collaborations & build exciting projects where we put what we learn into practice.<br/><br/>This form is a tool to help you register and make the most of the event. It will also provide you with an edgeryders.eu account.<br/><br/><strong>If you already have an edgeryders.eu account, please <a href=\"https://edgeryders.eu/new-topic?category_id=237&title=My%20Festival%20Registration%20%E2%80%93%20Response%20by%20%E2%80%A6&body=Our%20events%20are%20free%20of%20charge.%20Instead%2C%20we%20ask%20each%20participant%20some%20questions%20for%20you%20to%20answer%20in%20advance%20which%20help%20our%20team%20to%20do%20three%20things%3A%0A%0A1.%20Enable%20our%20community%20managers%20to%20connect%20people%20who%20ought%20to%20meet%20at%20the%20event.%0A2.%20Customise%20each%20event%20so%20that%20it%20is%20especially%20relevant%20and%20generative%20to%20each%20participant.%0A3.%20Process%20documentation%20from%20the%20event%20to%20produce%20a%20research%20report%20which%20turns%20individual%20conversation%20into%20collective%20insight.%0A%0A%2A%2APlease%20mention%20the%20name%20%2F%20topic%20of%20the%20event%20you%20want%20to%20participate%20in%2C%20and%20the%20city%20or%20town%20where%20it%20is%20happening.%2A%2A%0A%0A%2A%2A%28Q1%2F3%29%20What%20makes%20life%20good%20for%20you%3F%2A%2A%20Work%2C%20hobbies%2C%20family%20life%2C%20leisure%2C%20pleasure...%20Which%20activities%20from%20your%20present%20life%20would%20you%20like%20to%20keep%20doing%3F%20Which%20things%20would%20you%20like%20to%20never%20do%20again%3F%20Which%20would%20you%20want%20to%20start%20doing%2Fdo%20more%20of%3F%0A%0A%2A%2A%28Q2%2F3%29%20Tell%20us%20about%20your%20journey%21%2A%2A%20What%20is%20an%20a%20question%20or%20desire%20that%20drives%20you%20or%20your%20work%3F%20How%20did%20you%20get%20started%20and%20what%20hurdles%20have%20you%20met%20along%20the%20way%3F%20Which%20doubts%20do%20you%20have%20about%20the%20work%20you%20are%20doing%20and%20the%20path%20forward%3F%20What%20kind%20of%20support%20would%20you%20like%20to%20offer%20others%20traveling%20a%20similar%20path%3F%20By%20sharing%20your%20story%20below%20you%20enable%20others%20to%20connect%20you%20with%20people%2C%20conversations%2C%20opportunities%20relevant%20to%20your%20personal%20and%20professional%20development%3A%22%0A%0A%2A%2A%28Q3%2F3%29%20What%20interests%20you%20about%20the%20event%20topic%3F%2A%2A%20Great%2C%20now%20that%20you%27ve%20made%20it%20easier%20for%20us%20to%20introduce%20you%20to%20the%20others%20%E2%80%93%20start%20to%20think%20about%20the%20topic%20and%20purpose%20of%20the%20event%20itself.%20Why%20do%20you%20want%20to%20participate%20in%20it%3F%20How%20do%20you%20feel%20the%20topic%20touches%20your%20work%20or%20life%20at%20the%20moment%20%2F%20in%20the%20future%3F\">log in on edgeryders.eu and then click here</a> to use the form directly on edgeryders.eu.</strong>",
+    "title": "OCI Lab Incubator 19-20",
+    "subtitle": "Call for contributors!",
+    "body": "Open Collective Intelligence Lab is a P2P online incubator to support aspiring young social entrepreneurs in the MENA region through online mentoring and networking.<br/><br/> 13 Project teams were shortlisted for the OCI LAB intense project incubation track of the program, which offers them one on one mentoring and specialized technical support to move their initiatives forward.<br/><br/>  Until today, the project leaders had three online labs. The online labs supported them to identify the Social-Ecological Problem in their Communities, to define their solution and their project value proposition, and to Set up their action plan and draft their Lean Business Model Canvas.<br/><br/> These three steps helped them assess their project requirements that will be satisfied through a contribution system.<br/><br/> In this framework, we are calling for skilled people (called contributors) to join the OCI Lab Incubator team.<br/><br/> A contributor is anyone who: <ol> <li>Has a set of skills</li> <li>Is looking for a rewarding experience</li> <li>Wishes to use her/his skills for the common good</li> <li>Wishes to take part and contribute in a social venture in the MENA region (Tunisia, Lebanon, Jordan, Morocco or Egypt)</li> </ol>",
     "fields": []
   }, {
     "index": 1,
-    "title": "Select your events!",
-    "body": "Please mention the name / topic of the event you want to participate in, and the city or town where it is happening."
-  }, {
-    "title": "",
-    "body": "These events are free of charge. Instead, we ask each participant some questions for you to answer in advance  which help our team to do three things:<ol><li>Enable our community managers to connect people who ought to meet at the event.</li> <li>Customise each event so that it is especially relevant and generative to each participant.</li> <li>Process documentation from the event to produce a research report which turns individual conversation into collective insight.</li></ol> The collected data is anonymous, collected on an open source platform. You can see, edit or delete it with the edgeryders.eu user account we will send you as confirmation.",
-    "fields": [],
-    "nextText": "READY?",
-    "nextTitle": "Start the registration"
-  }, {
-    "index": 2,
-    "title": "(Q1/3) What makes life good for you?",
-    "body": "Work, hobbies, family life, leisure, pleasure... Which activities from your present life would you like to keep doing? Which things would you like to never do again? Which would you want to start doing/do more of?"
-  }, {
-    "index": 3,
-    "title": "(Q2/3) Tell us about your journey!",
-    "body": "What is an a question or desire that drives you or your work? How did you get started and what hurdles have you met along the way? Which doubts do you have about the work you are doing and the path forward? What kind of support would you like to offer others traveling a similar path?<br/><br/>By sharing your story below you enable others to connect you with people, conversations, opportunities relevant to your personal and professional development:"
-  }, {
-    "index": 4,
-    "title": "(Q3/3) What interests you about the event topic?",
-    "body": "Great, now that you've made it easier for us to introduce you to the others – start to think about the topic and purpose of the event itself. Why do you want to participate in it? How do you feel the topic touches your work or life at the moment / in the future?"
-  }, {
-    "index": 5,
-    "title": "The last little bit!",
-    "nextTitle": "Submit your response!",
-    "body": "These questions will help make your registration even better.",
+    "title": "Basic info",
+    "body": "Please provide us with contact information about you.",
     "fields": [{
       "name": "name",
       "type": "text",
-      "placeholder": "Name / nickname",
+      "placeholder": "Full name",
       "required": true,
       "autofocus": true,
-      "error": "Please enter your name"
+      "error": "Please enter your full name"
+    }, {
+      "name": "age",
+      "type": "text",
+      "placeholder": "Age",
+      "required": true,
+      "autofocus": true,
+      "error": "Please enter your age"
+    }, {
+      "name": "birthplace",
+      "type": "text",
+      "placeholder": "Place of birth",
+      "required": true,
+      "autofocus": true,
+      "error": "Please enter your place of birth"
+    }, {
+      "name": "residence",
+      "type": "text",
+      "placeholder": "In which country do you live?",
+      "required": true,
+      "autofocus": true,
+      "error": "Please enter your country of residence"
     }, {
       "name": "email",
       "type": "email",
-      "placeholder": "E-mail",
+      "placeholder": "e-mail address",
       "required": true,
       "error": "Please enter your email address",
       "settings": { "omit": true }
     }, {
+      "name": "phone",
+      "type": "text",
+      "placeholder": "phone number",
+      "required": false,
+      "error": "Please enter your phone number (optional)"
+    }],
+    "settings": { "omitFields": false }
+  }, {
+    "index": 2,
+    "title": "Select your projects",
+    "body": "Please read the projects' descriptions in <a target=\"_blank\" href=\"https://docs.google.com/document/d/1hNma4nO7n2_Kd7_L4_Ur2eDHCi1nQmlU41CwHKERqhM/edit\">this file</a> and write down the project names of the ones you're interested in contributing.<br/><br/> Which Project(s) do you want to be involved in? (you can choose more than one)<ol> <li>AI Mental healthcare</li> <li>Alphawomen</li> <li>Colex</li> <li>Data Science Academy</li> <li>Didi asks</li> <li>Diyafa</li> <li>Kenzimor</li> <li>Leafs</li> <li>Pailleco</li> <li>Spellit</li> <li>The identity app</li> <li>Zed</li> <li>Zellij invent</li> </ol>"
+  }, {
+    "index": 3,
+    "title": "Your motivation",
+    "body": "Why do you want to contribute to the mentioned projects?"
+  }, {
+    "index": 4,
+    "title": "Your expertise",
+    "body": "What is your domain of expertise? Please mention only items from the following list. <ol> <li>Artificial intelligence</li> <li>Business development</li> <li>Crowdfunding</li> <li>Data science</li> <li>Event Planning</li> <li>Game designing</li> <li>Marketing and branding</li> <li>Media & communication</li> <li>Neuroscience</li> <li>Photography</li> <li>Product development</li> <li>Production Process</li> <li>Programming / web development</li> <li>Social Media</li> <li>Web Design</li> <li>Youth management</li> </ol>"
+  }, {
+    "index": 5,
+    "title": "The last little bit!",
+    "nextTitle": "Submit your response!",
+    "body": "We need your consent for using your responses as part of our online forum.",
+    "fields": [{
       "name": "consent",
       "type": "checkbox",
       "placeholder": "I understand that this form is used for community driven research. Researchers are encouraged to treat your answers as a window into societal, economic, technological, and political trends and transformations that affect us. As I participate in the discussion, I do not fear bad consequences when sharing with others my views and alignment on societal, economic, technological and political issues.",
@@ -82,8 +105,8 @@
     "submit": true,
     "settings": { "omitBody": true }
   }, {
-    "title": "Well done!",
-"body": "Well done! Thank you for taking the time to fill out the event registration form! Your response has been published <a target=\"_blank\" href=\"https://edgeryders.eu/c/campfire\">here on edgeryders.eu</a>, and you can adapt it there if needed.<br/><br/> We have been working for months to prepare different ways for you to engage with this event, the other participants, as well as peers in over 80 countries who have interests and work aligned with your own.<br/><br/>* You will receive the confirmation of your participation on your email. Along with some materials to help you prepare. You can opt out at any time, no spam guaranteed.",
+    "title": "Thank you :-)",
+"body": "Well done! Thank you for taking the time to fill out the OCI Lab contributor registration form! Your response has been published <a target=\"_blank\" href=\"https://edgeryders.eu/c/openvillage/ocilab\">here on edgeryders.eu</a>, and you can adapt it there if needed.<br/><br/> You will receive an e-mail confirming your participation and your new edgeryders.eu account that you can use to edit your response and contribute to the discussion below it.",
     "fields": [],
     "backText": null,
     "nextText": null 
